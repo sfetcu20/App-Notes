@@ -1,0 +1,13 @@
+ .logbody{
+    background-color: rgb(245, 218, 248);
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
+.nav{
+    display: block;
+    width: 100vw;
+    height: 10vh;
+    background-color:rgb(99, 59, 126);
+    border-bottom: 0.5rem outset rgb(66, 149, 170);
+} 

@@ -1,0 +1,8 @@
+ .regForm{
+    display: inline-block;
+    float: right;
+    text-align: center;
+    width:50%;
+    height: 90vh;
+    min-width: 200px;
+} 
